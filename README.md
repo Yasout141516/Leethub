@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yasout141516/Leethub/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Yasout141516/Leethub/tree/master/0217-contains-duplicate) |
+| [0500-keyboard-row](https://github.com/Yasout141516/Leethub/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yasout141516/Leethub/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Yasout141516/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yasout141516/Leethub/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/Yasout141516/Leethub/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yasout141516/Leethub/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Yasout141516/Leethub/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/Yasout141516/Leethub/tree/master/0500-keyboard-row) |
 ## Math
 |  |
 | ------- |
