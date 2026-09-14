@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yasout141516/Leethub/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Yasout141516/Leethub/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Yasout141516/Leethub/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Yasout141516/Leethub/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/Yasout141516/Leethub/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Yasout141516/Leethub/tree/master/0771-jewels-and-stones) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yasout141516/Leethub/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Yasout141516/Leethub/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
