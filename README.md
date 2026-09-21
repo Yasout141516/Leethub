@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yasout141516/Leethub/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yasout141516/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yasout141516/Leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yasout141516/Leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Yasout141516/Leethub/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yasout141516/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Yasout141516/Leethub/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yasout141516/Leethub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Yasout141516/Leethub/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
