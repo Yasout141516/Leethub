@@ -1,10 +1,11 @@
 class Solution:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
-        jewelmap={}
+        hashset={}
         for i in jewels:
-            jewelmap[i]=0
+            hashset[i]=0
+        print(hashset)
         for j in stones:
-            #print(j)
-            if j in jewelmap:
-                jewelmap[j]+=1
-        return sum(jewelmap.values())
+            if j in hashset:
+                hashset[j]+=1
+        print(hashset)
+        return sum(hashset.values())
